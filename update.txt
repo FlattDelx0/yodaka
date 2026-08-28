@@ -1,5 +1,5 @@
-versionCode=2
-versionName=1.0.1
+versionCode=1
+versionName=1.0.0
 required=true
 sha256=ad7f5737bcc239d795d1987771afdfce9a6823583a21881490676869f539b4bd
 url=https://cdn.jsdelivr.net/gh/FlattDelx0/yodaka@main/yodaka.apk
